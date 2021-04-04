@@ -1,0 +1,1 @@
+Spintek testülesande lahendus.
